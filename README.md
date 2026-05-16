@@ -15,6 +15,6 @@ This project predicts whether a student will pass or fail based on key features 
 1. Clone the repository
 
 2. Install dependencies
-
+.
 ```bash
 pip install pandas scikit-learn
